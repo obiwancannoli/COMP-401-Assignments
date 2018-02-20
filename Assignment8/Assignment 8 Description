@@ -7,4 +7,6 @@ The ImageAdjusterTest.java when run opens the same picture of our professor but 
 the blur, brightness and saturation of the picture.
 
 The FramePuzzleTest.java when jumbles up the picture as you move the green square with your arrow keys. Your task is to reorder the 
-picture
+picture.
+
+All these files are in the src folder.
